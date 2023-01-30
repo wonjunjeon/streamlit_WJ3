@@ -9,7 +9,7 @@ st.set_page_config(
 st.text('🎈Streamlit 프로토타입 만들기')
 
 st.title('📌Title을 입력하세요.')
-st.header('Header(머리글)을 입력하세요.')`
+st.header('Header(머리글)을 입력하세요.')
 st.subheader('Subheader(세부 머리글)을 입력하세요.')
 
 st.markdown('# H1 #')
